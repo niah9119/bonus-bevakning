@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(node:*)",
+      "Bash(python:*)",
+      "WebSearch",
+      "WebFetch(domain:www.casinoguide.se)",
+      "WebFetch(domain:www.betsmart.se)",
+      "WebFetch(domain:sportbloggare.com)",
+      "Bash(git -C /c/Users/maxah/git/BonusBevakning.se log --oneline)",
+      "Bash(git:*)",
+      "WebFetch(domain:gamblingcabin.se)",
+      "WebFetch(domain:www.unknownbetting.se)",
+      "WebFetch(domain:bettingstugan.se)",
+      "WebFetch(domain:www.casivo.se)",
+      "WebFetch(domain:www.casinofeber.se)",
+      "WebFetch(domain:www.spelinspektionen.se)",
+      "WebFetch(domain:www.lottoguiden.se)",
+      "WebFetch(domain:casinotester.se)",
+      "WebFetch(domain:casinoswe.great.com)",
+      "WebFetch(domain:www.casinoroboten.com)",
+      "WebFetch(domain:speltips.se)",
+      "Bash(start:*)"
+    ]
+  }
+}
