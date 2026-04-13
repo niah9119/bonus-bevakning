@@ -21,7 +21,10 @@
       "WebFetch(domain:casinoswe.great.com)",
       "WebFetch(domain:www.casinoroboten.com)",
       "WebFetch(domain:speltips.se)",
-      "Bash(start:*)"
+      "Bash(start:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8080/)"
     ]
   }
 }
